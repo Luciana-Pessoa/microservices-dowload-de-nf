@@ -1,0 +1,17 @@
+{
+    "name": "tcs-desafio",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "express": "^4.17.1",
+        "imap-simple": "^1.6.3",
+        "mailparser": "^3.7.1",
+        "mongodb": "^3.6.3",
+        "mongoose": "^5.10.9",
+        "xml2js": "^0.6.2"
+    }
+}
