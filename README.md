@@ -3,10 +3,11 @@
 # Pré-requisitos
 Antes de começar, você precisa ter os seguintes softwares instalados em sua máquina:
 
-$ Git
-$ Docker
-$ Docker Compose
-$ VSCode
+ Git,
+ Docker,
+ Docker Compose,
+ VSCode
+
 
 # Executar o projeto:
 
