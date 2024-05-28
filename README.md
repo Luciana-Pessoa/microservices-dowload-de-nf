@@ -19,6 +19,14 @@ $ git clone <url-do-repositorio>
 # Acesse a pasta do projeto no terminal/cmd
 $ cd nome-do-projeto
 
+No aquivo .env.exemplo mude para .env
+e coloque seu usuario e senha do e-mail
+EMAIL=seu-email@example.com
+PASSWORD=sua-senha
+HOST=imap.seu-servidor.com
+PORT=993
+
+
 # Use o Docker Compose para construir e iniciar os contêineres
 $ docker-compose up --build
 
