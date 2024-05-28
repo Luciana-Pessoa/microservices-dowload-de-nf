@@ -6,6 +6,7 @@ Antes de começar, você precisa ter os seguintes softwares instalados em sua m�
  Git,
  Docker,
  Docker Compose,
+ Postman para testar API
  VSCode
 
 
