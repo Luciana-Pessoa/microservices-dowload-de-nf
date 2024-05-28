@@ -6,10 +6,9 @@ Antes de começar, você precisa ter os seguintes softwares instalados em sua m�
 Git
 Docker
 Docker Compose
-Além disso, é bom ter um editor para trabalhar com o código como VSCode
+VSCode
 
-Como usar
-Siga os passos abaixo para executar o projeto:
+Executar o projeto:
 
 # Clone este repositório
 $ git clone <url-do-repositorio>
