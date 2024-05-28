@@ -3,10 +3,10 @@
 # Pré-requisitos
 Antes de começar, você precisa ter os seguintes softwares instalados em sua máquina:
 
-Git
-Docker
-Docker Compose
-VSCode
+$ Git
+$ Docker
+$ Docker Compose
+$ VSCode
 
 # Executar o projeto:
 
@@ -16,8 +16,10 @@ $ git clone <url-do-repositorio>
 # Acesse a pasta do projeto no terminal/cmd
 $ cd nome-do-projeto
 
-$ No aquivo .env.exemplo mude para .env
+# No aquivo .env.exemplo mude para .env 
+
 coloque seu usuario e senha do e-mail
+
 EMAIL=seu-email@example.com
 PASSWORD=sua-senha
 HOST=imap.seu-servidor.com
