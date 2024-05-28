@@ -1,7 +1,5 @@
  Microservice E-mail
  
-Este é um breve parágrafo descrevendo o que o seu projeto faz e para que serve.
-
 Pré-requisitos
 Antes de começar, você precisa ter os seguintes softwares instalados em sua máquina:
 
