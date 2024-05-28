@@ -1,6 +1,4 @@
-
-
-```markdown
+````markdown
 # Microservice E-mail
 
 Um microserviço para gerenciar e-mails utilizando Docker.
@@ -21,6 +19,7 @@ Antes de começar, você precisa ter os seguintes softwares instalados em sua m�
 ```bash
 git clone <url-do-repositorio>
 ```
+````
 
 ### Acesse a pasta do projeto no terminal/cmd
 
@@ -68,5 +67,7 @@ Este projeto está sob a licença MIT.
 ## Contato
 
 Feito com ❤️ por Luciana Pessoa 👋🏽 Entre em contato!
+
 ```
 
+```
